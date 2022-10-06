@@ -2,10 +2,17 @@ apiVersion: v1
 entries:
   generic-chart:
   - apiVersion: v2
+    created: "2022-10-06T16:54:07.563908654Z"
+    digest: 429b3bdd3f78dd9e5c15179f1200e7f46d3f37394333e14dc1c17350e265a4e6
+    name: generic-chart
+    urls:
+    - https://github.com/luechtdiode/generic-chart/releases/download/generic-chart-2.2.0/generic-chart-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
     created: "2022-08-23T16:50:07.214397964Z"
     digest: d1fd3c3b6bfe81a88c39c346c62ffa2432fa967fde61851efaabe21065bc9095
     name: generic-chart
     urls:
     - https://github.com/luechtdiode/generic-chart/releases/download/generic-chart-2.1.0/generic-chart-2.1.0.tgz
     version: 2.1.0
-generated: "2022-08-23T16:50:07.214418866Z"
+generated: "2022-10-06T16:54:07.563922754Z"
