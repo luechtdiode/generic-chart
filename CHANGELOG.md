@@ -1,3 +1,7 @@
+# 2.3.0 (2022-10-06)
+## Features
+- Enable support for multiple containers
+
 # 2.2.0 (2020-12-01)
 ## Features
 - Add initContainers to the deployment template. Now initContainers can be defined in `values.yaml` (in plain YAML).
@@ -27,7 +31,7 @@ dependencies:
 # 1.0.2 (2020-06-03)
 ## Fixes
 - Fail if using .ingress.zone with multiple routes
-- .ingress.zone is now deprecated
+- .ingress.zone is now deprecated 
 
 # 1.0.1 (2020-05-27)
 ## Fixes
